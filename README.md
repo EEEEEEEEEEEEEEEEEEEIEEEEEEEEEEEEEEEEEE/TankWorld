@@ -15,4 +15,5 @@
 ###DEMO 示例
 
 ####游戏界面
+玩家通过键盘键入w、s、a、d控制坦克前、后、左、右移动，空格键发射炮弹。
 ![游戏界面](https://github.com/zhmvictor/TankWorld/blob/master/shouye.jpg)
