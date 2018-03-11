@@ -15,4 +15,4 @@
 ###DEMO 示例
 
 ####游戏界面
-![游戏界面](https://raw.githubusercontent.com/SUTFutureCoder/sut_score/master/demo/demo1.png)
+![游戏界面](https://github.com/zhmvictor/TankWorld/blob/master/shouye.jpg)
